@@ -1,3 +1,8 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git helps you store all of your projects in the same place and publish them online.
+
+Q2: What field could data science be applied to? Give an Example and how it might help.
+
+Answer: Data science can be applied to machine learning because it helps evaluate machine learning models' performace. 
