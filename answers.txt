@@ -11,4 +11,8 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging preserve the history of your repository, while rebasing moves your brance onto main. 
 
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn how to use data from online databases in computer science projects and experiments. 
+
 
